@@ -1,0 +1,224 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Ibarra+Real+Nova&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    animation: fadeIn 3s ease;
+   
+}
+
+
+/* barra de navegacion */
+ .barra{
+    background: #ffffff;
+    
+}
+.fa{
+  color: #000000;
+}
+.navbar-toggler{
+ background: white !important;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0;
+    filter: blur(10px);
+
+    }
+/* desenfoque blur */
+ 10% {
+        opacity: 1;
+        filter: brightness(2) blur(5px);
+    }
+} 
+.logo{
+   
+  border-radius: 1em;
+  width: 203px;
+  height: 72px;
+
+}
+
+/*  */
+/* banner */
+.banner{
+      width: 100%;
+    height: 50%;
+    padding-top: 5%;
+}
+
+/*  */
+/* imformacion acerca de  */
+
+.info-text{
+    height: 70%;
+    padding-top: 3em;
+    font-family: 'Dancing Script', cursive;
+    padding-bottom: 3em;
+    
+}
+.parrafo{
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 24px;
+}
+
+/*  */
+
+/* informacion nombre cosas */
+
+/* menu */
+.menu-info{
+  background: #8e6c9f;
+    height: 100%;
+    padding-top: 100%;
+    width: auto;
+}
+
+.p-1{
+    text-decoration: none;
+    color: #ffffff;
+}
+hr{
+    color: aliceblue;
+}
+.card{
+    margin-left: 2%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-right: 2%;
+    background: #b18dc44a;
+  }
+  .imagenes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+  }
+  .imag{
+    width: 8em;
+    margin: 1em;
+    box-shadow: 17px 18px 20px 0px black;
+    padding: 14px;
+   
+  }
+  .skill{
+    font-family: 'Ibarra Real Nova', serif;
+  }
+/* .skill::first-letter{
+  color: #000000;
+  font-size: 1.5em;
+  text-align: center;
+} */
+  
+/*  */
+
+/* button */
+button{
+    font-family: 'Ibarra Real Nova', serif;
+   
+}
+.btn { 
+    color: #ffffff; 
+    background-color:#8e73b2 ;
+    border-style: none;
+  } 
+   
+  .btn:hover, 
+  .btn:focus, 
+  .btn:active, 
+  .btn.active, 
+  .open .dropdown-toggle.btn { 
+    color: #ffffff; 
+    background-color: #49247A; 
+    border-color: #130269; 
+  } 
+   
+  .btn:active, 
+  .btn.active, 
+  .open .dropdown-toggle.btn { 
+    background-image: none; 
+  } 
+   
+  .btn.disabled, 
+  .btn[disabled], 
+  fieldset[disabled] .btn, 
+  .btn.disabled:hover, 
+  .btn[disabled]:hover, 
+  fieldset[disabled] .btn:hover, 
+  .btn.disabled:focus, 
+  .btn[disabled]:focus, 
+  fieldset[disabled] .btn:focus, 
+  .btn.disabled:active, 
+  .btn[disabled]:active, 
+  fieldset[disabled] .btn:active, 
+  .btn.disabled.active, 
+  .btn[disabled].active, 
+  fieldset[disabled] .btn.active { 
+    background-color: #611BBD; 
+    border-color: #130269; 
+  } 
+   
+  .btn .badge { 
+    color: #611BBD; 
+    background-color: #ffffff; 
+  }
+
+ button{
+ margin-left: 50%;
+ margin-bottom: 2%;
+ }
+ footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 80px 20px 60px;
+  background-color: #8e73b261;
+  color: white;
+  list-style: none;
+  font-family: 'Ibarra Real Nova', serif;
+
+}
+
+.nave-ul{
+  display: flex;
+ 
+}
+.nave-ul ,.nave-li, a{
+  list-style: none;
+  margin: 14px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+ 
+}
+footer .nave-ul .nave-li .ai:hover{
+  color: #ca95da;
+  font-weight: bold;
+  font-size: 28px;
+  -webkit-text-stroke: 0.2px black;
+}
+
+footer .nave-ul .nave-li .fa{
+    width: 2.7rem;
+    height: 2.7rem;
+    background-color: white;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    line-height: 2.7rem;
+    text-align: center;
+    /* color:#616161; */
+}
+footer .nave-ul .nave-li .fa:hover{
+background: #845f8f;
+}
+
+  
+/*  */

@@ -1,0 +1,19 @@
+ <!-- datos -->
+ <div class="card  " >
+    <div class="card-body text-center">
+        <i class="fa-solid fa-pen" style="padding-left: 95rem; font-size: 1.5rem;"></i>
+        <div class="contacto"  style="font-family: 'Zilla Slab', serif;">
+
+            <h4 *ngIf="datos">{{datos.informacionGeneral.nombre}}</h4>
+            <h5 *ngIf="datos"> {{datos.informacionGeneral.posicion}} </h5>
+            <h5 *ngIf="datos">{{datos.informacionGeneral.email}}</h5>
+            <h5 *ngIf="datos">{{datos.informacionGeneral.ubicacion}}</h5>
+
+        </div>
+        <div class="botones" style="display: flex;justify-content: space-evenly;" >
+           <a href="#" class="btn btn-primary">Tengo interes en</a>
+            <a href="#" class="btn btn-primary">Anadir Seccion</a>
+            <a href="#" class="btn btn-primary">Mas </a>
+        </div>
+    </div>
+</div>

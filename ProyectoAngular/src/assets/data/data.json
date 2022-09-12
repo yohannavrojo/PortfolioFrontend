@@ -1,0 +1,112 @@
+{     
+    
+    "imageBanner":"https://i.ibb.co/9WWP1mT/Yohanna-Rojo.png",
+    "acercaD":"Soy una programadora Full Stack ​🧑‍💻​ ,Developer Full Stack, estudiante de Desarrolladora Front-end y Diseño Ux/Ui. Busco experiencias y herramientas de desarrollo para poder mejorar y potenciarme constantemente 👨‍💻. Tanto Front-end como Back-end son muy atractivas para mi a la hora de trabajar, lo cual me lleva seguir estudiando en ambos para que sea de agrado de ustedes mis proyectos.",
+    "logo":"https://i.ibb.co/tQRkm2S/arg-programa.png",
+    "informacionGeneral": { 
+        "nombre":"Yohanna Valeska Rojo Noguera",
+        "posicion":"Desarrolladora-Junior",
+        "email":"yohavale7883@gmail.com",
+        "ubicacion":"Buenos Aires,Argentina"
+     },
+    
+  
+    
+     "experiencia":[
+        {
+            "trabajo":"Minhub LA",
+            "descripcion":"Full Stack Developer MERN & Mobile Apps,Realizacion del Front-end a Pagina Web con HTML,y JavaScript, Vue, y Bootstrap",
+            "aptitudes":"JSX,Comunicación,Curiosidad intelectual, Creatividad, Facilidad de adaptación,Autoaprendizaje,Trabajo en equipo,Diseño web,GitHub ,Hojas de CSS,Git",
+            "img":"https://media-exp1.licdn.com/dms/image/C4D0BAQEC9c-Khb-mMg/company-logo_200_200/0/1657115511052?e=1667433600&v=beta&t=ZZrLGRJ5kJ-vzGNl3vM0Iu7yZeX_iMlAdHx1OB7_3Lw"
+        },
+        {
+            
+         "trabajo":"Ejecutiva de ventas",
+         "descripcion":"Coordinación de estrategias. Actividades en pro de nueva adquision de clientes. Documentación de objetivos de ventas.",
+         "aptitudes":"Comunicación, Facilidad de adaptación, Autoaprendizaje, Trabajo en,equipo",
+         "img":"https://media-exp1.licdn.com/dms/image/C560BAQH7Pl63iNBXqQ/company-logo_200_200/0/1527316761530?e=1667433600&v=beta&t=IsWKE51id59GkVtnwYlOrprhGvK6ZgJpYaw3TKK-6go"
+        },
+        {
+            "trabajo":"DIRECTV Latin America",
+        "descripcion":"Ventas de paquetes Atencion al cliente",
+        "aptitudes":"Comunicación, Facilidad de adaptación, Autoaprendizaje, Trabajo en, equipo",
+        "img":"https://media-exp1.licdn.com/dms/image/C4D0BAQG-iZn0evw56g/company-logo_200_200/0/1656693054058?e=1667433600&v=beta&t=3zBF-Iuo9Fj0FAqTU_6VmnlbbeYIqHdWwlKiPdUBS_E"
+        },
+        {
+            "trabajo":"Representaciones Generales Peru S.A.",
+            "descripcion":"Gestión de ventas E-Commerce",
+            "aptitudes":"Comunicación,Facilidad de adaptación, Autoaprendizaje, Trabajo en, Equipo",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjcr9YcvjDAeHJiDqEESevXPh7AbJPfJC2bjwC9Z1BSXGrbZd1lDAtOiOZzYEhoJS9jaE&usqp=CAU" 
+        }
+     ],
+     "estudios":[
+        {
+            "imagen":"https://cdn1.gnarususercontent.com.br/6/408784/85e3fa9e-9323-4bea-a894-7ff946fbf09c.png"
+        },
+        {
+            "imagen":"https://media-exp1.licdn.com/dms/image/C4D0BAQEC9c-Khb-mMg/company-logo_200_200/0/1657115511052?e=1667433600&v=beta&t=ZZrLGRJ5kJ-vzGNl3vM0Iu7yZeX_iMlAdHx1OB7_3Lw"
+        },
+        {
+            "imagen":"https://media-exp1.licdn.com/dms/image/C4D0BAQGlBBVXCfSVag/company-logo_100_100/0/1570003065196?e=1668038400&v=beta&t=2_KJ2EbqcA21EqC1poa-Si_T94LtF8JmTn-wQmi44yw" 
+        },
+        {
+           "imagen":"data:image/png;base64,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" 
+        },
+        {
+            "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9oFOuXueyGRAnEaVLWpk9l2-vPeewIfRrkjjpG6xrYBVBilFl7xzEWRECv9GOPvAFpI&usqp=CAU"  
+        },
+        {
+            "imagen":"https://aulasvirtuales.bue.edu.ar/pluginfile.php/1/theme_academiaba38/logo/1657068928/logo%20OK.png"
+        }
+     ],
+     "soft":[
+        {
+            "titulo":"Trabajo en equipo"
+        },
+        {
+            "titulo":"Autoaprendizaje" 
+        },
+        {
+            "titulo":"Facilidad de adaptación"
+        },
+        {
+            "titulo":"Creatividad"
+        },
+        {
+            "titulo":"Curiosidad intelectual"
+        },
+        {
+            "titulo":"Comunicación"
+        }
+        
+        
+     ],
+
+     "tecnologias":[
+        {
+            "imagen":"https://i.ibb.co/Nxb53td/kisspng-scalable-vector-graphics-html5-logo-html5-logos-download-5ca6abc0153ff4-64756047155442681608.png"
+        },
+        {
+            "imagen":"https://i.ibb.co/qCxq9Sm/kisspng-web-development-cascading-style-sheets-css3-html-5ae480845f38f3-0110241015249245483901.png"
+        },
+        {
+            "imagen":"https://i.ibb.co/j6RgdVr/kisspng-javascript-library-programming-language-microsoft-productos-avada-cafe-5d017f820c39c9-457743.png"
+        },
+        {
+             "imagen":"https://i.ibb.co/kDzNLQK/kisspng-react-javascript-angularjs-ionic-atom-5b154be6947457-3471941815281223426081.png"
+        },
+        {
+            "imagen":"https://i.ibb.co/QFjzQKd/kisspng-bootstrap-logo-computer-software-web-application-p-b-5abb6c2ab15640-3860806115222323627264.png"
+        },
+        {
+            "imagen":"https://i.ibb.co/HV5JKpg/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1c091993-8950282915318871320373.png"
+        }
+
+     ],
+     "metodologia":[
+        {
+            "titulo":"SCRUM",
+            "descripcion":"Se caracteriza por ser la «metodología del caos» que se basa en,una estructura de desarrollo incremental, esto es, cualquier ciclo de desarrollo del producto y/o servicio se desgrana en «pequeños proyectos» divididos en distintas etapas: análisis, desarrollo y testing. En la etapa de desarrollo encontramos lo que se conoce como interacciones del proceso o Sprint, es decir entregas regulares y parciales del producto final."
+        }
+     ]
+}

@@ -1,0 +1,31 @@
+ <!-- informacion nombre cosas -->
+ <div class="container-fluid ">
+    <div class=" row ">
+        <div class="col-12">
+            <div class="menu-info2" data-bs-spy="scroll" data-bs-target="#simple-list-example"
+                data-bs-offset="0" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+
+                <!-- metodologia -->
+                <div class="card "  *ngFor = "let metodologia of miPortfolio">
+                    <i class="fa-solid fa-pen" style="    padding-left: 70rem;
+                    padding-top: 1rem;"></i>
+                    <h1 class="text-center " id="simple-list-item-2"
+                        style="font-size: 60px; font-family: 'Dancing Script', cursive;">
+                       {{metodologia.titulo}}
+                    </h1>
+                    <div class="card text-center">
+                      
+                        <div class="card-body">
+                            <h5 class="card-title" style="font-size: 40px; font-family: 'Dancing Script', cursive;">SCRUM</h5>
+                            <p class="card-text" style="font-family: 'Ibarra Real Nova', serif;">{{metodologia.descripcion}}</p>
+                            <a href="#" class="btn btn-primary">Mas info</a>
+                        </div>
+                       
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
